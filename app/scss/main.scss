@@ -1,0 +1,20 @@
+div {
+  width: 100vw;
+  height: 100vh;
+  background: linear-gradient(#7e72d7, #a4c579) center no-repeat;
+  background-size: cover;
+  border: 0;
+  font-family: 'Arial',sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  p {
+    margin: 0;
+    transition: 0.1s;
+    color:#fff;
+    font-size: 50px;
+    text-align: center;
+    font-weight: 500;
+    text-transform: uppercase;
+  }
+}
